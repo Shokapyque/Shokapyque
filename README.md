@@ -16,7 +16,7 @@ ____________________________
 <div style="display: flex;flex-direction: row;justify-content: space-evenly;width: 100%;height: 200px;">
     <div style="display: flex;flex-direction: row;justify-content: space-evenly;align-items: center;flex-wrap: wrap;width: 250px;">
     <!-- C++ -->
-        <img style="height: 75px;width: auto;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw0zIMgk12JuPJWVsI4fOFpZ&ust=1711452975709000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjQq6upj4UDFQAAAAAdAAAAABAE" alt="C++ langage">
+        <img style="height: 75px;width: auto;" src="https://cdn.discordapp.com/attachments/1156871899645751308/1234415722210267177/1687615910475.png?ex=6630a6ba&is=662f553a&hm=b1d99520b6c267f3bd6f8409879ec8e28a987bf3cd1ec699d7e3e4661ec11df9&" alt="C++ langage">
     <!-- HTML -->
         <img style="height: 75px;width: auto;" src ="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="Html5">
     <!-- CSS -->
