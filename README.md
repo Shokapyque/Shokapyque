@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hello there, I'm Alexandre
 
-<!--
-**Shokapyque/Shokapyque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+> Student at <a href="https://www.efrei.fr/">Efrei Paris 🦉</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 18 years old. 🎂
+
+> Linkedin : <a href="https://www.linkedin.com/in/alexandre-leitao-2297b8263/">Alexandre Leitao 🔗</a>
+
+
+____________________________
+
+## Languages & Skills
+
+<div style="display: flex;flex-direction: row;justify-content: space-evenly;width: 100%;height: 200px;">
+    <div style="display: flex;flex-direction: row;justify-content: space-evenly;align-items: center;flex-wrap: wrap;width: 250px;">
+    <!-- C++ -->
+        <img style="height: 75px;width: auto;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw0zIMgk12JuPJWVsI4fOFpZ&ust=1711452975709000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjQq6upj4UDFQAAAAAdAAAAABAE" alt="C++ langage">
+    <!-- HTML -->
+        <img style="height: 75px;width: auto;" src ="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="Html5">
+    <!-- CSS -->
+        <img style="height: 75px;width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt = "Css">
+    <!-- JavaScript -->
+        <img style="height: 75px;width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript">
+    <!-- VSCODE -->
+        <img style="height: 75px;width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code">
+    <!-- Github -->
+        <img style="height: 75px;width: auto;" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/github_101792.png" alt="Github">
+    </div>    
+</div>
+
+
+<!-- ____________________________
+### My Github stats
+<div style="width:100%;display: flex;justify-content: center;align-items: center;">
+
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shokapyque-2&layout=compact&theme=chartreuse-dark&bg_color=DEG,095228,000000,000000)
+</div>
+<div style="width:100%;display: flex;justify-content: center;align-items: center;">
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Faust1-2&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,095228,000000,000000)
+
+</div> -->
+
+____________________________
+## More about me ✨
+
+> 🎥 Streamer, you can see me on https://twitch.tv/shokapyque 🤖</a>.
+
+> 📷 Photo/Vidéo montage
+
+> 🎮 Video games
