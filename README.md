@@ -4,7 +4,7 @@
 
 > Student at <a href="https://www.efrei.fr/">Efrei Paris 🦉</a>
 
-> 18 years old. 🎂
+> 19 years old. 🎂
 
 > Linkedin : <a href="https://www.linkedin.com/in/alexandre-leitao-2297b8263/">Alexandre Leitao 🔗</a>
 
